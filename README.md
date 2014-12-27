@@ -1,4 +1,2 @@
-PWR-Supply
-==========
-
-网上看到的一个可调电源设计稿。
+VPSU - Variable Power Supply Unit
+=================================
